@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image6]: ./figures/image4.jpg "Flipped center Image"
 [image8]: ./figures/image5.jpg "Flipped left Image"
 [image9]: ./figures/image6.jpg "Flipped right Image"
-[image7]: ./figures/crop_image.jpg "Cropped Image"
+[image7]: ./figures/corp_image.jpg "Cropped Image"
 
 ## Rubric Points
 ---
