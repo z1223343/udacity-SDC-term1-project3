@@ -1,7 +1,4 @@
-# **udacity-term1-project3**
-# **Behavioral Cloning** 
-
----
+# **Project 3: Behavioral Cloning**
 
 **Behavioral Cloning Project**
 
