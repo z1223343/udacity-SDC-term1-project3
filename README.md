@@ -20,6 +20,7 @@ The goals / steps of this project are the following:
 [image8]: ./figures/image5.jpg "Flipped left Image"
 [image9]: ./figures/image6.jpg "Flipped right Image"
 [image7]: ./figures/corp_image.jpg "Cropped Image"
+[video1]: ./video.mp4 "output video"
 
 ## Rubric Points
 ---
@@ -118,4 +119,5 @@ I used this training data for training the model. The validation set helped dete
 
 ![Model Loss][image2]
 
+![output video][video1]
 
