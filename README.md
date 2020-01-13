@@ -120,4 +120,4 @@ I used this training data for training the model. The validation set helped dete
 ![Model Loss][image2]
 
 
-
+To do: all Video here
